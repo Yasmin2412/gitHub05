@@ -1,0 +1,2 @@
+# new project
+THIS IS CREATED FOR GIT_UNDERSTAND!
